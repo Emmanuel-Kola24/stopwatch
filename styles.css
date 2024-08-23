@@ -1,0 +1,30 @@
+/* styles.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f;
+    font-family: Arial, sans-serif;
+}
+
+.stopwatch {
+    text-align: center;
+}
+
+#display {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 1.2rem;
+    padding: 25px 30px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: aqua;
+    border-radius: 15px 0px 15px 0px;
+}
+#stop2{
+    font-size: 40px;
+}
